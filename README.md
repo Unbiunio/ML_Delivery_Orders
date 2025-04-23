@@ -1,0 +1,1 @@
+El Objetivo de este ejercicio es saber predecir si los 10 pedidos de df_pred se van a entregar o no
